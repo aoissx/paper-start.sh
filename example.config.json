@@ -1,0 +1,15 @@
+{
+    "server_type": "paper",
+    "server_version": "1.16.5",
+    "server_mem": "2G",
+    "plugins":[
+        {
+            "name": "CoreProtect",
+            "url":"https://github.com/PlayPro/CoreProtect.git"
+        },
+        {
+            "name": "LuckPerms",
+            "url":"https://github.com/LuckPerms/LuckPerms.git"
+        }
+    ]
+}
